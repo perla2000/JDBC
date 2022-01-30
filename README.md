@@ -7,6 +7,7 @@ Créer notre propre base de donnée Il faut télécharger mysql avec ses connect
   
 ## Deuxième étape
 Créer une Base de donnée "Company" et une table "Employees"
+
 ![3](https://user-images.githubusercontent.com/88480955/151720372-a2440cde-d8be-4182-be55-a45c2b0e9926.PNG)
   
 ## Troisième étape
